@@ -1,4 +1,4 @@
-## 🎬 Demo Video
+## 🎬 Project 96
 
 [![Watch the video](https://img.youtube.com/vi/9d7ixPuE6cA/maxresdefault.jpg)](https://youtu.be/9d7ixPuE6cA)
 <br>
